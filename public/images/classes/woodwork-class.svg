@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img">
+  <title>나무 쟁반과 대패가 놓인 작업대</title>
+  <rect width="800" height="600" fill="#f3ebdc"/>
+  <circle cx="660" cy="120" r="64" fill="#e3ece6"/>
+  <rect y="400" width="800" height="200" fill="#d9c3a3"/>
+  <rect y="400" width="800" height="14" fill="#a89880"/>
+  <path d="M0 470 H800 M0 540 H800" stroke="#bcae96" stroke-width="2"/>
+  <rect x="190" y="290" width="360" height="40" rx="10" fill="#8c5a38"/>
+  <rect x="210" y="262" width="320" height="40" rx="8" fill="#b07a50"/>
+  <rect x="226" y="274" width="288" height="18" rx="6" fill="#c99467"/>
+  <path d="M240 283 C 300 276 360 290 420 282 S 490 280 500 283" fill="none" stroke="#8c5a38" stroke-width="2" opacity="0.6"/>
+  <path d="M205 330 L195 372 H545 L535 330 Z" fill="#8c5a38"/>
+  <path d="M570 360 H730 L720 330 H590 Z" fill="#4d6b5c"/>
+  <rect x="570" y="360" width="160" height="30" rx="4" fill="#2f4a3d"/>
+  <path d="M610 330 C 610 300 660 300 660 330" fill="none" stroke="#1f1d1a" stroke-width="8" stroke-linecap="round"/>
+  <path d="M120 380 C 90 370 80 395 100 405 C 120 410 150 400 140 385 Z" fill="#c99467"/>
+  <path d="M60 395 C 50 385 70 375 80 385" fill="none" stroke="#c99467" stroke-width="5" stroke-linecap="round"/>
+</svg>

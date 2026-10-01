@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img">
+  <title>느티나무 쟁반 일러스트</title>
+  <rect width="800" height="600" fill="#efe6d6"/>
+  <rect y="400" width="800" height="200" fill="#e4d8c3"/>
+  <ellipse cx="400" cy="480" rx="300" ry="30" fill="#1f1d1a" opacity="0.14"/>
+  <path d="M110 300 L690 300 L650 440 Q400 470 150 440 Z" fill="#8a5a36"/>
+  <ellipse cx="400" cy="300" rx="290" ry="90" fill="#b98a5e" stroke="#7a4d2c" stroke-width="3"/>
+  <ellipse cx="400" cy="304" rx="250" ry="72" fill="#d1a577"/>
+  <g fill="none" stroke="#a4713f" stroke-width="2.5" stroke-linecap="round" opacity="0.8">
+    <path d="M200 304 Q300 280 400 304 T600 304"/>
+    <path d="M230 330 Q330 308 420 330 T570 326"/>
+    <path d="M240 276 Q330 256 420 276 T560 274"/>
+  </g>
+  <path d="M130 270 Q160 240 230 230" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round" opacity="0.35"/>
+  <path d="M150 440 Q400 470 650 440" fill="none" stroke="#6a4326" stroke-width="3"/>
+</svg>

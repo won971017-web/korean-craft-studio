@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img">
+  <title>나전 손거울 일러스트</title>
+  <defs>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#cfe6df"/>
+      <stop offset="0.5" stop-color="#f1e3f0"/>
+      <stop offset="1" stop-color="#f6ecd2"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="#efe6d6"/>
+  <rect y="450" width="800" height="150" fill="#e4d8c3"/>
+  <ellipse cx="400" cy="500" rx="170" ry="16" fill="#1f1d1a" opacity="0.12"/>
+  <rect x="368" y="380" width="64" height="110" rx="22" fill="#1f1d1a"/>
+  <circle cx="400" cy="250" r="180" fill="#1f1d1a"/>
+  <circle cx="400" cy="250" r="140" fill="#cfd6d4"/>
+  <circle cx="400" cy="250" r="140" fill="none" stroke="#b08a4a" stroke-width="4"/>
+  <path d="M310 190 Q340 150 400 140" fill="none" stroke="#ffffff" stroke-width="12" stroke-linecap="round" opacity="0.7"/>
+  <g fill="url(#shine)">
+    <path d="M400 410 Q412 424 400 438 Q388 424 400 410 Z"/>
+    <path d="M400 450 Q408 460 400 470 Q392 460 400 450 Z"/>
+    <circle cx="400" cy="102" r="6"/><circle cx="262" cy="150" r="5"/><circle cx="538" cy="150" r="5"/>
+    <circle cx="244" cy="300" r="5"/><circle cx="556" cy="300" r="5"/><circle cx="300" cy="372" r="5"/><circle cx="500" cy="372" r="5"/>
+  </g>
+</svg>

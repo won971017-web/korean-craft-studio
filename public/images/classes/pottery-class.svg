@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img">
+  <title>물레 위에서 빚어지는 찻잔</title>
+  <rect width="800" height="600" fill="#f3ebdc"/>
+  <rect y="430" width="800" height="170" fill="#e6d9c2"/>
+  <circle cx="620" cy="130" r="70" fill="#e3ece6"/>
+  <ellipse cx="400" cy="450" rx="230" ry="38" fill="#cfc3ae"/>
+  <rect x="330" y="400" width="140" height="80" fill="#8c7b66"/>
+  <ellipse cx="400" cy="400" rx="200" ry="34" fill="#a89880"/>
+  <ellipse cx="400" cy="392" rx="180" ry="28" fill="#bcae96"/>
+  <path d="M290 392 C 270 300 300 240 330 210 L470 210 C 500 240 530 300 510 392 C 480 420 320 420 290 392 Z" fill="#d9c3a3"/>
+  <path d="M330 210 C 340 190 460 190 470 210 C 460 228 340 228 330 210 Z" fill="#4d6b5c"/>
+  <ellipse cx="400" cy="208" rx="62" ry="12" fill="#2f4a3d"/>
+  <path d="M310 330 C 340 345 460 345 490 330" fill="none" stroke="#a4582f" stroke-width="5" stroke-linecap="round" opacity="0.7"/>
+  <path d="M300 360 C 340 378 460 378 500 360" fill="none" stroke="#a4582f" stroke-width="3" stroke-linecap="round" opacity="0.5"/>
+  <path d="M120 520 H680" stroke="#1f1d1a" stroke-width="2" opacity="0.25"/>
+</svg>

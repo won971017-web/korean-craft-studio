@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img">
+  <title>달항아리 일러스트</title>
+  <rect width="800" height="600" fill="#efe6d6"/>
+  <rect y="440" width="800" height="160" fill="#e4d8c3"/>
+  <ellipse cx="400" cy="486" rx="190" ry="20" fill="#1f1d1a" opacity="0.12"/>
+  <ellipse cx="400" cy="468" rx="95" ry="16" fill="#cfc3ae"/>
+  <path d="M310 130 Q300 118 310 108 L490 108 Q500 118 490 130 Q640 200 640 300 Q640 440 400 468 Q160 440 160 300 Q160 200 310 130 Z" fill="#fbf7ef" stroke="#cfc3ae" stroke-width="3"/>
+  <ellipse cx="400" cy="108" rx="90" ry="16" fill="#efe6d6" stroke="#cfc3ae" stroke-width="3"/>
+  <ellipse cx="400" cy="108" rx="70" ry="10" fill="#cfc3ae" opacity="0.6"/>
+  <path d="M215 250 Q240 170 330 150" fill="none" stroke="#ffffff" stroke-width="14" stroke-linecap="round" opacity="0.7"/>
+  <path d="M250 380 Q330 440 460 440" fill="none" stroke="#4d6b5c" stroke-width="3" opacity="0.35"/>
+  <path d="M175 330 Q400 372 625 330" fill="none" stroke="#cfc3ae" stroke-width="2" opacity="0.7"/>
+</svg>

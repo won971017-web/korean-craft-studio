@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+/* 온결 공방 디자인 토큰. 본문 대비 4.5:1 이상 유지. */
+@theme inline {
+  --color-paper: #fbf7ef; /* 아이보리 */
+  --color-sand: #efe6d6; /* 베이지 */
+  --color-line: #cfc3ae;
+  --color-ink: #1f1d1a; /* 먹색 */
+  --color-muted: #5a5348; /* 보조 텍스트 (paper 대비 7:1) */
+  --color-clay: #a4582f;
+  --color-clay-strong: #8a4524; /* paper 대비 5.9:1 */
+  --color-celadon: #4d6b5c;
+  --color-celadon-soft: #e3ece6;
+  --color-danger: #a12a1f;
+  --color-danger-soft: #f8e5e1;
+  --font-sans: "Pretendard", "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans KR", system-ui, sans-serif;
+  --font-serif: "Nanum Myeongjo", "Noto Serif KR", "Batang", "AppleMyungjo", serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  word-break: keep-all;
+  line-height: 1.7;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img">
+  <title>원목 작은 의자 일러스트</title>
+  <rect width="800" height="600" fill="#efe6d6"/>
+  <rect y="450" width="800" height="150" fill="#e4d8c3"/>
+  <ellipse cx="400" cy="506" rx="230" ry="20" fill="#1f1d1a" opacity="0.14"/>
+  <path d="M250 300 L215 500 L255 500 L290 320 Z" fill="#7a4d2c"/>
+  <path d="M550 300 L585 500 L545 500 L510 320 Z" fill="#7a4d2c"/>
+  <path d="M340 320 L330 490 L368 490 L372 330 Z" fill="#8a5a36"/>
+  <path d="M460 320 L470 490 L432 490 L428 330 Z" fill="#8a5a36"/>
+  <rect x="280" y="410" width="240" height="22" rx="4" fill="#6a4326"/>
+  <path d="M170 250 L630 250 L610 300 L190 300 Z" fill="#8a5a36"/>
+  <ellipse cx="400" cy="250" rx="230" ry="46" fill="#d1a577" stroke="#7a4d2c" stroke-width="3"/>
+  <g fill="none" stroke="#a4713f" stroke-width="2.5" stroke-linecap="round" opacity="0.8">
+    <ellipse cx="400" cy="250" rx="150" ry="28"/>
+    <ellipse cx="400" cy="250" rx="80" ry="14"/>
+    <ellipse cx="400" cy="250" rx="22" ry="4"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img">
+  <title>청자 찻사발 일러스트</title>
+  <rect width="800" height="600" fill="#efe6d6"/>
+  <rect y="430" width="800" height="170" fill="#e4d8c3"/>
+  <ellipse cx="400" cy="470" rx="230" ry="22" fill="#1f1d1a" opacity="0.12"/>
+  <path d="M340 440 L460 440 L470 462 L330 462 Z" fill="#3f5a4c"/>
+  <path d="M130 220 L670 220 Q660 400 520 440 L280 440 Q140 400 130 220 Z" fill="#9db8a8"/>
+  <path d="M130 220 L670 220 Q660 400 520 440 L280 440 Q140 400 130 220 Z" fill="none" stroke="#4d6b5c" stroke-width="3"/>
+  <ellipse cx="400" cy="220" rx="270" ry="44" fill="#b7cdbf" stroke="#4d6b5c" stroke-width="3"/>
+  <ellipse cx="400" cy="226" rx="235" ry="32" fill="#7f9d8c"/>
+  <path d="M180 270 Q200 350 290 395" fill="none" stroke="#e3ece6" stroke-width="12" stroke-linecap="round" opacity="0.7"/>
+  <g fill="none" stroke="#4d6b5c" stroke-width="3" opacity="0.5" stroke-linecap="round">
+    <path d="M330 320 Q340 290 360 300 Q380 310 372 340"/>
+    <path d="M420 350 Q440 320 460 332 Q480 344 468 372"/>
+    <path d="M300 372 Q400 392 500 372"/>
+  </g>
+</svg>

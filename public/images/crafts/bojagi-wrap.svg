@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img">
+  <title>매듭으로 묶은 보자기 일러스트</title>
+  <rect width="800" height="600" fill="#efe6d6"/>
+  <rect y="450" width="800" height="150" fill="#e4d8c3"/>
+  <ellipse cx="400" cy="490" rx="240" ry="20" fill="#1f1d1a" opacity="0.12"/>
+  <path d="M170 300 L400 130 L630 300 L600 470 Q400 510 200 470 Z" fill="#9db8a8"/>
+  <path d="M170 300 L400 130 L630 300" fill="none" stroke="#4d6b5c" stroke-width="3"/>
+  <path d="M400 130 L330 470 M400 130 L470 470" fill="none" stroke="#4d6b5c" stroke-width="2" opacity="0.5"/>
+  <path d="M170 300 Q290 360 400 300 Q510 360 630 300" fill="none" stroke="#e3ece6" stroke-width="6" opacity="0.8"/>
+  <path d="M400 300 L300 230 Q270 280 330 300 Z" fill="#a4582f"/>
+  <path d="M400 300 L500 230 Q530 280 470 300 Z" fill="#a4582f"/>
+  <path d="M400 300 L350 390 L385 380 Z" fill="#8a4524"/>
+  <path d="M400 300 L450 390 L415 380 Z" fill="#8a4524"/>
+  <circle cx="400" cy="300" r="24" fill="#8a4524"/>
+  <path d="M385 292 Q400 282 415 292" fill="none" stroke="#d9b8a0" stroke-width="4" stroke-linecap="round"/>
+</svg>
